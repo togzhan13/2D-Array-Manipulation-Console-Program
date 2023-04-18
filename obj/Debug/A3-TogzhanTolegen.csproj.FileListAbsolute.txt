@@ -1,0 +1,8 @@
+C:\Users\togzh\source\repos\A3-TogzhanTolegen\obj\Debug\A3-TogzhanTolegen.csproj.AssemblyReference.cache
+C:\Users\togzh\source\repos\A3-TogzhanTolegen\obj\Debug\A3-TogzhanTolegen.csproj.SuggestedBindingRedirects.cache
+C:\Users\togzh\source\repos\A3-TogzhanTolegen\obj\Debug\A3-TogzhanTolegen.csproj.CoreCompileInputs.cache
+C:\Users\togzh\source\repos\A3-TogzhanTolegen\bin\Debug\A3-TogzhanTolegen.exe.config
+C:\Users\togzh\source\repos\A3-TogzhanTolegen\bin\Debug\A3-TogzhanTolegen.exe
+C:\Users\togzh\source\repos\A3-TogzhanTolegen\bin\Debug\A3-TogzhanTolegen.pdb
+C:\Users\togzh\source\repos\A3-TogzhanTolegen\obj\Debug\A3-TogzhanTolegen.exe
+C:\Users\togzh\source\repos\A3-TogzhanTolegen\obj\Debug\A3-TogzhanTolegen.pdb
